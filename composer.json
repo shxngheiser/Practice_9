@@ -1,0 +1,17 @@
+{
+    "name": "17.03_sf_test",
+    "autoload": {
+        "psr-4": {
+            "1703SfTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shxngheiser",
+            "email": "artemd2626@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3"
+    }
+}
