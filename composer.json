@@ -1,8 +1,8 @@
 {
-    "name": "17.03_sf_test",
+    "name": "shxngheiser/17.03_sf_test",
     "autoload": {
         "psr-4": {
-            "1703SfTest\\": "src/"
+            "Shxngheiser\\1703SfTest\\": "src/"
         }
     },
     "authors": [
